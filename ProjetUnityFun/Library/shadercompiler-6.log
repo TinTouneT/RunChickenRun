@@ -1,0 +1,10 @@
+Base path: C:/Program Files (x86)/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-6-3196
+Cmd: getPlatforms
+Cmd: compileSnippet
+  error: 2 plat 0 at (0): Arithmetic instruction limit of 64 exceeded; 70 arithmetic instructions needed to compile program
+  api=0 type=1 insize=2843 outsize=0 kw= ok=0
+Unhandled exception: Readfile from pipe failed. GLE=Le canal de communication a été fermé.
+
+
+Quitting shader compiler process

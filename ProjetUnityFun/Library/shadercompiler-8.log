@@ -1,0 +1,10 @@
+Base path: C:/Program Files (x86)/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-8-4076
+Cmd: getPlatforms
+Cmd: compileSnippet
+  error: 2 plat 1 at (0): Instruction limit of 96 exceeded; 163 instructions needed to compile program
+  api=1 type=1 insize=2843 outsize=0 kw= ok=0
+Unhandled exception: Readfile from pipe failed. GLE=Le canal de communication a été fermé.
+
+
+Quitting shader compiler process
